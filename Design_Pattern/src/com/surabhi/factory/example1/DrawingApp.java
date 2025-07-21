@@ -1,4 +1,4 @@
-package com.surabhi.factory;
+package com.surabhi.factory.example1;
 
 public class DrawingApp {
     public static void main(String[] args) {

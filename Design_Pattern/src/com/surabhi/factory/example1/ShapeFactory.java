@@ -1,4 +1,4 @@
-package com.surabhi.factory;
+package com.surabhi.factory.example1;
 
 public class ShapeFactory {
     public Shape getShape(String shapeType){
